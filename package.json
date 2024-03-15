@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-desktop-app",
+  "productName": "ChatGPT",
+  "version": "1.0.0",
+  "description": "The Desktop Application for OpenAI's ChatGPT, for Windows, macOS and Linux with \"rpm\" or \"deb\".",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
